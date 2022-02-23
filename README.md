@@ -1,4 +1,4 @@
-<img align="Right" width="400" src="https://user-images.githubusercontent.com/72188268/155353389-54cdb98d-cafe-49f7-878c-08190dd3aadc.gif">
+<img align="Right" width="400" height="300" src="https://user-images.githubusercontent.com/72188268/155353389-54cdb98d-cafe-49f7-878c-08190dd3aadc.gif">
   
 <h1 align="center">Hello There 👋,</h1>
 <h3 align="center">In This Repository I will Hopefully try to put some Projects and solve some Questions and anyone can improve the Code by Contributing.</h3>
