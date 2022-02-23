@@ -1,4 +1,4 @@
-<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/1AJM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <h1 align="center">Hello There 👋,</h1>
 <h3 align="center">In This Repository I will Hopefully try to put some Projects and solve some Questions and anyone can improve the Code by Contributing.</h3>
 <p align="center">
