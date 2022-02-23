@@ -2,7 +2,7 @@
 <img src="style/WiqN.gif" width="300px">
 </p>
 <h1 align="center">Hello There 👋,</h1>
-<h3 align="center">In This Repository I will Hopefully try to solve Basic to Advance level Questions and anyone can improve the Code by Contributing.</h3>
+<h3 align="center">In This Repository I will Hopefully try to put some Projects and solve some Questions and anyone can improve the Code by Contributing.</h3>
 <p align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/iamehran/Cpp?label=Repo%20Stars&style=social">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/iamehran/Cpp?style=social">
