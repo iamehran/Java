@@ -1,6 +1,5 @@
-<p align="center">
-<img src="![1AJM](https://user-images.githubusercontent.com/72188268/155352488-cddfb882-014a-4026-a151-8e8964117a31.gif)" width="300px">
-</p>
+<img align="Right" src="https://user-images.githubusercontent.com/72188268/155353389-54cdb98d-cafe-49f7-878c-08190dd3aadc.gif">
+  
 <h1 align="center">Hello There 👋,</h1>
 <h3 align="center">In This Repository I will Hopefully try to put some Projects and solve some Questions and anyone can improve the Code by Contributing.</h3>
 <p align="center">
